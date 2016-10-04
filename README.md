@@ -1,6 +1,6 @@
-###I record here my recent readings and links.
+###I record here my recent readings and links, I will keep updating.
 
-### 04/10/2016 (first day, list all the documents I am interested)
+### 04/10/2016
 ####Books:
 - Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
 - Reinforcement Learning:An Introduction[[Sutton](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)]
@@ -16,7 +16,7 @@
 - Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations[[arXiv1609](https://arxiv.org/abs/1609.07061)]
 - NeuFlow: Embedded Hardware for Real-Time Vision[[CBLL](http://www.cs.nyu.edu/~yann/research/neuflow/index.html)]
 
-####Foundations of Deep learning, related to Statistical mechanics:
+####Foundations of Deep learning + Statistical mechanics:
 - An exact mapping between the Variational Renormalization Group and Deep Learning[[arxiv1410](https://arxiv.org/abs/1410.3831)]
 - Why does deep and cheap learning work so well?[[arxiv1608](https://arxiv.org/abs/1608.08225)]
 - Comment on “Why does deep and cheap learning work so well?”[[arxiv1609](https://arxiv.org/abs/1609.03541)]
