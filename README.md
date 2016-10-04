@@ -36,8 +36,8 @@
 - Progressive Neural Networks[[arxiv1606](https://arxiv.org/abs/1606.04671)]
 
 ####Generative Learning:
-Generative Adversarial Nets[[arxiv1406](https://arxiv.org/abs/1406.2661)]
-Energy-based Generative Adversarial Network[[arxiv1609](https://arxiv.org/abs/1609.03126)]
+- Generative Adversarial Nets[[arxiv1406](https://arxiv.org/abs/1406.2661)]
+- Energy-based Generative Adversarial Network[[arxiv1609](https://arxiv.org/abs/1609.03126)]
 
 
 
