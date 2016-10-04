@@ -24,7 +24,7 @@
 - NeuFlow: Embedded Hardware for Real-Time Vision[[CBLL](http://www.cs.nyu.edu/~yann/research/neuflow/index.html)]
 
 ####Deep Learning + Arts:
-- A Neural Algorithm of Artistic Style[[arxiv1508](https://arxiv.org/abs/1508.06576)][[Torch Implementation](https://github.com/jcjohnson/neural-style)]
+- A Neural Algorithm of Artistic Style[[arxiv1508](https://arxiv.org/abs/1508.06576)][[Torch Implementation](https://github.com/jcjohnson/neural-style)][[Chainer Implementation](https://github.com/mattya/chainer-gogh)]
 - Toward Automated Discovery of Artistic Influence[[arxiv1408](https://arxiv.org/abs/1408.3218)]
 - The Rijksmuseum Challenge: Museum-Centered Visual Recognition[[ICMR '14](https://staff.fnwi.uva.nl/t.e.j.mensink/publications/mensink14icmr.pdf)]
 - [[Ostagram](https://ostagram.ru/static_pages/lenta?last_days=30&locale=en)]
