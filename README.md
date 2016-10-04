@@ -1,4 +1,4 @@
-# recentReadingNotes
+# Reading Notes
 I record here recent my recent readings and links.
 
 ## 10/04/2016 (first day, list all the document I am interested in)
