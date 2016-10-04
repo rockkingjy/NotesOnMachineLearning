@@ -19,14 +19,9 @@
 - Deep Reinforcement Learning with Double Q-learning[[arXiv1509](https://arxiv.org/abs/1509.06461)]
 - Demystifying Deep Reinforcement Learning[[Tambet Matiisen](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)]
 
-####Deep Learning + FPGA:
+####Deep Learning + High-performance/FPGA:
 - Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations[[arXiv1609](https://arxiv.org/abs/1609.07061)]
 - NeuFlow: Embedded Hardware for Real-Time Vision[[CBLL](http://www.cs.nyu.edu/~yann/research/neuflow/index.html)]
-
-####Foundations of Deep learning + Statistical mechanics:
-- An exact mapping between the Variational Renormalization Group and Deep Learning[[arxiv1410](https://arxiv.org/abs/1410.3831)]
-- Why does deep and cheap learning work so well?[[arxiv1608](https://arxiv.org/abs/1608.08225)]
-- Comment on “Why does deep and cheap learning work so well?”[[arxiv1609](https://arxiv.org/abs/1609.03541)]
 
 ####Deep Learning + Arts:
 - A Neural Algorithm of Artistic Style[[arxiv1508](https://arxiv.org/abs/1508.06576)][[Torch Implementation](https://github.com/jcjohnson/neural-style)]
@@ -35,6 +30,11 @@
 - [[Ostagram](https://ostagram.ru/static_pages/lenta?last_days=30&locale=en)]
 - [[Prisma](http://prisma-ai.com/)]
 - Perceptual Losses for Real-Time Style Transfer and Super-Resolution[[Arxiv1603](https://arxiv.org/abs/1603.08155)][[Chainer implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)]
+
+####Foundations of Deep learning + Statistical mechanics:
+- An exact mapping between the Variational Renormalization Group and Deep Learning[[arxiv1410](https://arxiv.org/abs/1410.3831)]
+- Why does deep and cheap learning work so well?[[arxiv1608](https://arxiv.org/abs/1608.08225)]
+- Comment on “Why does deep and cheap learning work so well?”[[arxiv1609](https://arxiv.org/abs/1609.03541)]
 
 ####One-shot Learning:
 - One-shot Learning with Memory-Augmented Neural Networks[[arxiv1605](https://arxiv.org/abs/1605.06065)]
