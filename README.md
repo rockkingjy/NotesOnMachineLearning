@@ -30,6 +30,7 @@
 - The Rijksmuseum Challenge: Museum-Centered Visual Recognition[[ICMR '14](https://staff.fnwi.uva.nl/t.e.j.mensink/publications/mensink14icmr.pdf)]
 - [[Ostagram](https://ostagram.ru/static_pages/lenta?last_days=30&locale=en)]
 - [[Prisma](http://prisma-ai.com/)]
+- Artistic style transfer for videos[[arxiv1604](https://arxiv.org/abs/1604.08610)]
 
 ####Foundations of Deep learning + Statistical mechanics:
 - An exact mapping between the Variational Renormalization Group and Deep Learning[[arxiv1410](https://arxiv.org/abs/1410.3831)]
