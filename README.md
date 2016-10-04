@@ -1,5 +1,4 @@
-### Reading Notes
-I record here recent my recent readings and links.
+###I record here my recent readings and links.
 
 ### 04/10/2016 (first day, list all the documents I am interested)
 ####Books:
@@ -11,7 +10,7 @@ I record here recent my recent readings and links.
 
 ####Reinforcement Learning + Deep Learning:
 - Really good Reinforcement Learning resources I found today: [[wildml](http://www.wildml.com/)]
-- Udacity Reinforcement Learning Course ud600
+- Udacity Reinforcement Learning Course ud600 [[Udacity](https://www.udacity.com/)]
 
 ####Deep Learning + FPGA:
 - Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations[[arXiv1609](https://arxiv.org/abs/1609.07061)]
