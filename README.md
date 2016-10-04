@@ -1,7 +1,7 @@
-# Reading Notes
+### Reading Notes
 I record here recent my recent readings and links.
 
-## 10/04/2016 (first day, list all the document I am interested in)
+### 10/04/2016 (first day, list all the document I am interested in)
 ###Reinforcement Learning:
 - Really good Reinforcement Learning resources I found today: [[wildml](http://www.wildml.com/)]
 - Udacity Reinforcement Learning Course ud600
