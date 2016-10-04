@@ -14,10 +14,10 @@
 - Udacity Reinforcement Learning Course ud600 [[Udacity](https://www.udacity.com/)]
 
 ####Reinforcement Learning + Deep Learning:
-Human-Level Control through Deep Reinforcement Learning[[nature14](http://www.readcube.com/articles/10.1038/nature14236)]
-Using Keras and Deep Q-Network to Play FlappyBird[[Ben Lau](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)]
-Deep Reinforcement Learning with Double Q-learning[[arXiv1509](https://arxiv.org/abs/1509.06461)]
-Demystifying Deep Reinforcement Learning[[Tambet Matiisen](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)]
+- Human-Level Control through Deep Reinforcement Learning[[nature14](http://www.readcube.com/articles/10.1038/nature14236)]
+- Using Keras and Deep Q-Network to Play FlappyBird[[Ben Lau](https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html)]
+- Deep Reinforcement Learning with Double Q-learning[[arXiv1509](https://arxiv.org/abs/1509.06461)]
+- Demystifying Deep Reinforcement Learning[[Tambet Matiisen](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)]
 
 ####Deep Learning + FPGA:
 - Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations[[arXiv1609](https://arxiv.org/abs/1609.07061)]
