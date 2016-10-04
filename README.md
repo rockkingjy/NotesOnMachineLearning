@@ -32,6 +32,7 @@
 - A Neural Algorithm of Artistic Style[[arxiv1508](https://arxiv.org/abs/1508.06576)]
 - Toward Automated Discovery of Artistic Influence[[arxiv1408](https://arxiv.org/abs/1408.3218)]
 - The Rijksmuseum Challenge: Museum-Centered Visual Recognition[[ICMR '14](https://staff.fnwi.uva.nl/t.e.j.mensink/publications/mensink14icmr.pdf)]
+- [[Ostagram](https://ostagram.ru/static_pages/lenta?last_days=30&locale=en)]
 
 ####One-shot Learning:
 - One-shot Learning with Memory-Augmented Neural Networks[[arxiv1605](https://arxiv.org/abs/1605.06065)]
