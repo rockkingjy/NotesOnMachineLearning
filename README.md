@@ -9,7 +9,8 @@
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
 
 ####Reinforcement Learning + Deep Learning:
-- Really good Reinforcement Learning resources I found today: [[wildml](http://www.wildml.com/)]
+- Really good Reinforcement Learning resources: [[wildml](http://www.wildml.com/)]
+- Reinforcement Learning Video[[David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)]
 - Udacity Reinforcement Learning Course ud600 [[Udacity](https://www.udacity.com/)]
 
 ####Deep Learning + FPGA:
