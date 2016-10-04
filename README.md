@@ -7,7 +7,7 @@ I record here recent my recent readings and links.
 - Reinforcement Learning:An Introduction[[Sutton](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)]
 - 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
-- Machine Learning - A Probabilistic Perspective[[Murphy](Machine Learning: a Probabilistic Perspective)]
+- Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
 
 ####Reinforcement Learning + Deep Learning:
 - Really good Reinforcement Learning resources I found today: [[wildml](http://www.wildml.com/)]
