@@ -56,5 +56,6 @@
 - [An Introduction to Distributed Training of Neural Networks](http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)
 
 ####Kaggle
+- [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
 - [Winning solution for the National Data Science Bowl competition on Kaggle (plankton classification)](http://benanne.github.io/2015/03/17/plankton.html)
 
