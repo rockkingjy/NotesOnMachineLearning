@@ -51,7 +51,7 @@
 - Energy-based Generative Adversarial Network[[arxiv1609](https://arxiv.org/abs/1609.03126)]
 
 ####Distributed Deep Learning:
-- [An Introduction to Distributed Training of Neural Networks(http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)]
+- [An Introduction to Distributed Training of Neural Networks](http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)
 
 ####Kaggle
 - [Winning solution for the National Data Science Bowl competition on Kaggle (plankton classification)](http://benanne.github.io/2015/03/17/plankton.html)
