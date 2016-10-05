@@ -1,8 +1,10 @@
 ###I record here my recent readings and links, I will keep updating.
 
 ### latest update date: 05/10/2016
-####Books:
-- Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
+####Usefull Books and links:
+- For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+- For practice: [Deep Learning Tutorials in Theano](http://deeplearning.net/tutorial/)
+- For in-depth learning: Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
 - Reinforcement Learning:An Introduction[[Sutton](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)]
 - 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
