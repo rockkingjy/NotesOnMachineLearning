@@ -61,3 +61,6 @@
 - [State Farm Distracted Driver Detection](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
 - [Winning solution for the National Data Science Bowl competition on Kaggle (plankton classification)](http://benanne.github.io/2015/03/17/plankton.html)
 
+####Self-Driving car
+- End to End Learning for Self-Driving Cars[[arxiv1604](https://arxiv.org/abs/1604.07316)]
+- Road Detection through Supervised Classification[[arxiv1605](https://arxiv.org/abs/1605.03150)]
