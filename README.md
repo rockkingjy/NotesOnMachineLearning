@@ -8,6 +8,7 @@
 - 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)[[Code](https://github.com/cs231n/cs231n.github.io)]
 
 ####Reinforcement Learning:
 - Reinforcement Learning:An Introduction[[Sutton](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)]
