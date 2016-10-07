@@ -71,9 +71,15 @@
 
 ####Distributed Deep Learning
 - [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
+- [DeepSpark](http://deepspark.snu.ac.kr./) allows distributed execution of both Caffe and Google's TensorFlow deep learning jobs on Apache Spark™ cluster of machines.
+- [Distributed Deep Learning](http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)
+
+####NLP
+- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
 
 ####Others
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - Interesting introduction with pics: [colah's blog](http://colah.github.io/)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Deeplearning4j](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
+- [Deepmind](https://deepmind.com/research/dqn/)
