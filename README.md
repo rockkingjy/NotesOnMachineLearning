@@ -75,3 +75,4 @@
 ####Others
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - Interesting introduction with pics: [colah's blog](http://colah.github.io/)
+- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
