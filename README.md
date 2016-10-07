@@ -1,19 +1,21 @@
 ###I record here my recent readings and links, I will keep updating.
 
-### latest update date: 05/10/2016
+### latest update date: 07/10/2016
 ####Usefull Books and links:
 - For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - For practice: [Deep Learning Tutorials in Theano](http://deeplearning.net/tutorial/)[[Code](https://github.com/lisa-lab/DeepLearningTutorials/tree/master/code)]
 - For in-depth learning: Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
-- Reinforcement Learning:An Introduction[[Sutton](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)]
 - 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
 
 ####Reinforcement Learning:
-- Really good Reinforcement Learning resources: [[wildml](http://www.wildml.com/)]
+- Reinforcement Learning:An Introduction[[Sutton](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)]
 - Reinforcement Learning Video[[David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)]
 - Udacity Reinforcement Learning Course ud600 [[Udacity](https://www.udacity.com/)]
+- Deep Reinforcement Learning for Keras[[Code](https://github.com/matthiasplappert/keras-rl)]
+- Deep Reinforcement Learning in TensorFlow[[Code](https://github.com/carpedm20/deep-rl-tensorflow)]
+- Really good Reinforcement Learning resources: [[Code](https://github.com/dennybritz/reinforcement-learning)]
 
 ####Reinforcement Learning + Deep Learning:
 - Human-Level Control through Deep Reinforcement Learning[[nature14](http://www.readcube.com/articles/10.1038/nature14236)]
