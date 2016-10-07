@@ -76,3 +76,4 @@
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - Interesting introduction with pics: [colah's blog](http://colah.github.io/)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [Deeplearning4j](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
