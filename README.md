@@ -64,3 +64,6 @@
 ####Self-Driving car
 - End to End Learning for Self-Driving Cars[[arxiv1604](https://arxiv.org/abs/1604.07316)]
 - Road Detection through Supervised Classification[[arxiv1605](https://arxiv.org/abs/1605.03150)]
+
+####Deeplearning and music
+- [Analyzing six deep learning tools for music generation](http://www.asimovinstitute.org/analyzing-deep-learning-tools-music/)
