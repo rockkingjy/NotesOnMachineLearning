@@ -11,7 +11,7 @@
 
 ####Reinforcement Learning:
 - Reinforcement Learning:An Introduction[[Sutton](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)]
-- Reinforcement Learning Video[[David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)]
+- Reinforcement Learning Video[[David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)][Easy21](https://github.com/kvfrans/Easy21-RL)
 - Udacity Reinforcement Learning Course ud600 [[Udacity](https://www.udacity.com/)]
 - Deep Reinforcement Learning for Keras[[Code](https://github.com/matthiasplappert/keras-rl)]
 - Deep Reinforcement Learning in TensorFlow[[Code](https://github.com/carpedm20/deep-rl-tensorflow)]
@@ -75,7 +75,7 @@
 - [Distributed Deep Learning](http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)
 
 ####NLP
-- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
+- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)[Code](https://github.com/kvfrans/cs224-solutions)
 
 ####Others
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
