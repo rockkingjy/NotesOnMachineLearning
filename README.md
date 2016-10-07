@@ -26,6 +26,7 @@
 ####Deep Learning + High-performance/FPGA:
 - Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations[[arXiv1609](https://arxiv.org/abs/1609.07061)]
 - NeuFlow: Embedded Hardware for Real-Time Vision[[CBLL](http://www.cs.nyu.edu/~yann/research/neuflow/index.html)]
+- [FPGA在深度学习的未来](http://blog.csdn.net/klaas/article/details/50822880#在fpga上运行lstm神经网络)
 
 ####Deep Learning + Arts:
 - Perceptual Losses for Real-Time Style Transfer and Super-Resolution[[Arxiv1603](https://arxiv.org/abs/1603.08155)][[Chainer implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)]
@@ -68,5 +69,9 @@
 ####Deep learning and music
 - [Analyzing six deep learning tools for music generation](http://www.asimovinstitute.org/analyzing-deep-learning-tools-music/)
 
+####Distributed Deep Learning
+- [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
+
 ####Others
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
+- Interesting introduction with pics: [colah's blog](http://colah.github.io/)
