@@ -1,14 +1,15 @@
 ###I record here my recent readings and links, I will keep updating.
 
-### latest update date: 07/10/2016
+### latest update date: 08/10/2016
 
-####facinating works:
+####Facinating works:
 
 - Neural GPUs Learn Algorithms[[arxiv1511](https://arxiv.org/abs/1511.08228)]
 - Learning to learn by gradient descent by gradient descent[[arxiv1606](https://arxiv.org/abs/1606.04474)]
 - Latent Predictor Networks for Code Generation[[arxiv1603](https://arxiv.org/abs/1603.06744)]
 - Creat music from Google Brain: [[Magenta](https://github.com/tensorflow/magenta)]
 - Super Mario World [[Code](http://pastebin.com/ZZmSNaHX)][[Video](https://www.youtube.com/watch?v=qv6UVOQ0F44)]
+- Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning[[arxiv1605](https://arxiv.org/abs/1605.08104)]
 - [[Song ci](https://github.com/HevLfreis/songci-rnn)]
 
 ####Deep Learning + Arts:
@@ -23,7 +24,8 @@
 ####Image Reconstruction
 - Context Encoders: Feature Learning by Inpainting[[Code](https://github.com/pathak22/context-encoder)]
 - Pixel Recurrent Neural Networks[[arxiv1601](https://arxiv.org/abs/1601.06759)]
-- Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning[[arxiv1605](https://arxiv.org/abs/1605.08104)]
+- Mask-specific inpainting with deep neural networks[[pdf](http://webdav.tuebingen.mpg.de/pixel/neural_inpainting/Koehler_Mask_Specific_Inpainting_With_Deep_Neural_Networks_GCPR_2014.pdf)]
+- Image Denoising and Inpainting with Deep Neural Networks[[pdf](https://papers.nips.cc/paper/4686-image-denoising-and-inpainting-with-deep-neural-networks.pdf)]
 
 ####Usefull Books and links:
 - For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
