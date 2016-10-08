@@ -7,9 +7,9 @@
 - Neural GPUs Learn Algorithms[[arxiv1511](https://arxiv.org/abs/1511.08228)]
 - Learning to learn by gradient descent by gradient descent[[arxiv1606](https://arxiv.org/abs/1606.04474)]
 - Latent Predictor Networks for Code Generation[[arxiv1603](https://arxiv.org/abs/1603.06744)]
-- Creat music from Google Brain: [Magenta(https://github.com/tensorflow/magenta)]
-- Super Mario World [Code(http://pastebin.com/ZZmSNaHX)][Video(https://www.youtube.com/watch?v=qv6UVOQ0F44)]
-- [Song ci(https://github.com/HevLfreis/songci-rnn)]
+- Creat music from Google Brain: [[Magenta](https://github.com/tensorflow/magenta)]
+- Super Mario World [[Code](http://pastebin.com/ZZmSNaHX)][[Video](https://www.youtube.com/watch?v=qv6UVOQ0F44)]
+- [[Song ci](https://github.com/HevLfreis/songci-rnn)]
 
 ####Deep Learning + Arts:
 - Perceptual Losses for Real-Time Style Transfer and Super-Resolution[[Arxiv1603](https://arxiv.org/abs/1603.08155)][[Chainer implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)]
