@@ -78,9 +78,12 @@
 ####NLP
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)[[Code](https://github.com/kvfrans/cs224-solutions)]
 
+
+
 ####Others
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
 - Interesting introduction with pics: [colah's blog](http://colah.github.io/)
 - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [Deeplearning4j](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
 - [Deepmind](https://deepmind.com/research/dqn/)
+- Neural GPUs Learn Algorithms[[arxiv1511](https://arxiv.org/abs/1511.08228)]
