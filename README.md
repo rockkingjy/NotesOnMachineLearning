@@ -87,3 +87,4 @@
 - [Deeplearning4j](http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html)
 - [Deepmind](https://deepmind.com/research/dqn/)
 - Neural GPUs Learn Algorithms[[arxiv1511](https://arxiv.org/abs/1511.08228)]
+- Learning to learn by gradient descent by gradient descent[[arxiv1606](https://arxiv.org/abs/1606.04474)]
