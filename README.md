@@ -11,6 +11,7 @@
 - Super Mario World [[Code](http://pastebin.com/ZZmSNaHX)][[Video](https://www.youtube.com/watch?v=qv6UVOQ0F44)]
 - Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning[[arxiv1605](https://arxiv.org/abs/1605.08104)]
 - [[Song ci](https://github.com/HevLfreis/songci-rnn)]
+- Open nsfw model[[Code](https://github.com/yahoo/open_nsfw)]
 
 ####Deep Learning + Arts:
 - Perceptual Losses for Real-Time Style Transfer and Super-Resolution[[Arxiv1603](https://arxiv.org/abs/1603.08155)][[Chainer implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)]
