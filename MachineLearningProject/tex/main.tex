@@ -1,0 +1,167 @@
+
+%\documentclass[12pt,draft]{article}
+\documentclass[12pt]{article}
+
+\usepackage{CJK}
+\usepackage{mathrsfs}
+\usepackage{amsmath,amsthm,amsfonts,amssymb}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{indentfirst}
+\usepackage{float}
+\usepackage[dvips]{graphicx}
+\usepackage{subfigure}
+\usepackage[font=small]{caption}
+\usepackage{threeparttable}
+\usepackage{cases}
+\usepackage{multicol}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{bm}
+\usepackage{xcolor}
+\usepackage{overpic}
+\usepackage{natbib}
+\usepackage[utf8]{inputenc}
+\usepackage[frenchb]{babel}
+\usepackage{natbib}
+
+\numberwithin{equation}{section}
+
+
+\geometry{left=1.5cm,right=1.5cm,top=1.5cm,bottom=1.5cm}
+
+\setlength{\parskip}{0.3\baselineskip}
+\setlength{\headheight}{15pt}
+\begin{document}\small
+  \renewcommand\figurename{Fig.}
+  %\renewcommand\arraystretch{1.0}
+    \title{Report(Version-1.0)}
+    \author{Yan JIN}
+    \pagestyle{fancy}\fancyhf{}
+    \lhead{}\rhead{JIN Yan}
+    \lfoot{\textit{Do what you think is right, unremittingly, you will be extremely strong.}}\cfoot{}\rfoot{\thepage}
+    \renewcommand{\headrulewidth}{1.pt}
+    \renewcommand{\footrulewidth}{1.pt}
+  \maketitle
+  \begin{abstract}
+	Abstract: Use several machine learning methods to give a prediction for a regression problem. 
+  \end{abstract}
+  
+
+\section{Preprocessing}
+I randomly separated 10\% of the total data set out as a test set, the others as training set (for some cases I separated out 10\% as validation set).(ref. preprocess.py)
+
+\section{Performance Metrics}
+
+Performance metrics are used to measure the performance of a model.
+
+This is a regression problem, so I used the Mean-Square Error (MSE) as the performance metrics. 
+
+\section{Regression methods(ref. regression.py)}
+First I use several easy regression methods to train it and get the result accordingly:
+
+For linear regression:
+
+Mean squared test error: 0.03912
+
+Ridge regression:
+
+Mean squared test error: 0.06832
+
+Ridge regression with cross-validation training on the search the alpha parameter:
+
+Mean squared test error: 0.03988
+with alpha=1e-07
+
+Lasso regression with cross-validation:
+
+Mean squared test error: 0.06847
+
+Elastic Net with cross-validation:
+
+Mean squared test error: 0.06847
+
+
+\section{Support Vector Regression(SVR)(ref. svm.py)}
+Support Vector Regression(SVR) method have different kernels, I use Linear Kernel and RBF Kernel. For Linear Kernel, it have parameter C and for RBF Kernel, it have two important parameters C and $\gamma$. I tried to tune them by using grid search. And I have 50M data, that is not so much, so I used cross-validation, even though it cost time, but saves training data\cite{hsu2003practical}.
+
+I use grid search on C = 1, 10, 100, 1000 for Linear Kernel, and C = 1, 10, 100, 1000; $\gamma$ = 0.1, 0.01, 0.001, 0.0001 for RBF Kernel.
+
+After 36 hours' training on the inputs and the out put -7th column, I get the best result for the C = 1000 and gamma = 0.1. 
+
+Mean squared test error: 0.028527340638862371
+
+All the other output columns can do in the same way.
+
+After this, I can do with more finer grid search on the parameters.
+
+Another way to search is random search, that may be more efficient than a grid search \cite{bergstra2012random}.
+
+\section{Neural Networks\cite{Goodfellow-et-al-2016-Book}(ref. neuralnetworks.py)}
+\subsection{Baseline model}
+To implement neural networks, I need to establish a quick start baseline model. Here is supervised learning with \textbf{fixed-size(18) vectors as input}, I choose to use a network with \textbf{one 10 neurons fully connected layer}. For optimization algorithm, use \textbf{SGD with momentum}, and \textbf{constant learning rate of 0.001} and \textbf{batch size is set to 200}. The dataset have 50k items, not very large, so I use \textbf{$L^2$ regularization with the rate set as 0.0001} for preventing over-fitting.  \textbf{Early stopping} is used. I do not know what the project exactly is for, just the numbers, so I can not used previously studied models, and no unsupervised learning techniques used here for the baseline model.
+
+Result for the baseline model:
+
+Training time: 6.871 s;
+
+Mean squared training error: 0.043538832196343941;
+
+Mean squared validation error:  0.043052184437576559.
+
+\subsection{Tuning parameters one - let it wider}
+Now, I increase the neurons for this one layer and check the performance.
+I use \textbf{grid search on neurons size = 8, 18, 100, 300, 500, 600, 800, 1000}
+
+I found that there is no significant increase in performance after 100, so I choose the neurons number as 100 with the result:
+
+Training time: 21.971 s
+
+Mean squared training error: 0.039290429947297388;
+
+Mean squared validation error: 0.03818179716937925.
+
+\subsection{Tuning parameters two - let it deeper}
+Now, I increase the layers of the neural networks to two, and search for the best performance on \textbf{neurons size=(100,),(100,8),(100,30),(100,50),(100,100)}
+
+The best performance is of neurons size (100,50) with the result:
+
+Training time: 38.576 s
+
+Mean squared training error: 0.037859849356471492;
+
+Mean squared validation error: 0.036743163908343313.
+
+Then I searched for even more deeper, but no significant performance enhancement.
+
+\subsection{Tuning parameters two - learning rate and batch size}
+Now, I try to tune the learning rate and batch size. I search for the best performance on \textbf{learning rate=0.1,0.01,0.001,0.0001 and batch size=5,50,200}
+
+The best performance is (learning rate,batch size)=(0.1,50)
+
+Training time: 6.024 s
+
+Mean squared training error: 0.031416204542312504;
+
+Mean squared validation error: 0.030943414216340871.
+
+\subsection{Final result for neural networks}
+I can see that the validation error is always better than the training error, so no over-fitting. In fact usually I first try to make the model large enough to make it over-fitting and then add the regulation to prevent it, but here not seems the case.
+
+Finally I run the model again to evaluate it on the test set and get the error for the output -7th column:
+
+Mean squared test error = 0.030479616037540517
+
+All the other output columns can do in the same way.
+
+\section{Summary}
+We can see that the SVR method got the best performance for this problem. For the neural networks, I think it can be better if I have more time to train. 
+
+In fact, I am still reading the book of Goodfellow\cite{Goodfellow-et-al-2016-Book}, plan to finish it before the end of this year, and I am still improving. If there are something not correct, please tell me. I like this kind of project, and learns a lot from it. If I have the opportunity to join the internship for better improvement, I will be quite grateful for it.
+
+\renewcommand\refname{Reference}
+\bibliographystyle{plain}
+\bibliography{main}
+
+  \clearpage
+\end{document}
