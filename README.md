@@ -1,32 +1,6 @@
 ###I record here my recent readings and links, I will keep updating.
 
-### latest update date: 08/10/2016
-
-####Facinating works:
-
-- Neural GPUs Learn Algorithms[[arxiv1511](https://arxiv.org/abs/1511.08228)]
-- Learning to learn by gradient descent by gradient descent[[arxiv1606](https://arxiv.org/abs/1606.04474)]
-- Latent Predictor Networks for Code Generation[[arxiv1603](https://arxiv.org/abs/1603.06744)]
-- Creat music from Google Brain: [[Magenta](https://github.com/tensorflow/magenta)]
-- Super Mario World [[Code](http://pastebin.com/ZZmSNaHX)][[Video](https://www.youtube.com/watch?v=qv6UVOQ0F44)]
-- Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning[[arxiv1605](https://arxiv.org/abs/1605.08104)]
-- [[Song ci](https://github.com/HevLfreis/songci-rnn)]
-- Open nsfw model[[Code](https://github.com/yahoo/open_nsfw)]
-
-####Deep Learning + Arts:
-- Perceptual Losses for Real-Time Style Transfer and Super-Resolution[[Arxiv1603](https://arxiv.org/abs/1603.08155)][[Chainer implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)]
-- A Neural Algorithm of Artistic Style[[arxiv1508](https://arxiv.org/abs/1508.06576)][[Torch Implementation](https://github.com/jcjohnson/neural-style)][[Chainer Implementation](https://github.com/mattya/chainer-gogh)]
-- Toward Automated Discovery of Artistic Influence[[arxiv1408](https://arxiv.org/abs/1408.3218)]
-- The Rijksmuseum Challenge: Museum-Centered Visual Recognition[[ICMR '14](https://staff.fnwi.uva.nl/t.e.j.mensink/publications/mensink14icmr.pdf)]
-- Artistic style transfer for videos[[arxiv1604](https://arxiv.org/abs/1604.08610)]
-- [[Ostagram](https://ostagram.ru/static_pages/lenta?last_days=30&locale=en)]
-- [[Prisma](http://prisma-ai.com/)]
-
-####Image Reconstruction
-- Context Encoders: Feature Learning by Inpainting[[Code](https://github.com/pathak22/context-encoder)]
-- Pixel Recurrent Neural Networks[[arxiv1601](https://arxiv.org/abs/1601.06759)]
-- Mask-specific inpainting with deep neural networks[[pdf](http://webdav.tuebingen.mpg.de/pixel/neural_inpainting/Koehler_Mask_Specific_Inpainting_With_Deep_Neural_Networks_GCPR_2014.pdf)]
-- Image Denoising and Inpainting with Deep Neural Networks[[pdf](https://papers.nips.cc/paper/4686-image-denoising-and-inpainting-with-deep-neural-networks.pdf)]
+### latest update date: 20/11/2016
 
 ####Usefull Books and links:
 - For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
@@ -73,6 +47,32 @@
 ####Generative Learning:
 - Generative Adversarial Nets[[arxiv1406](https://arxiv.org/abs/1406.2661)]
 - Energy-based Generative Adversarial Network[[arxiv1609](https://arxiv.org/abs/1609.03126)]
+
+####Facinating works:
+
+- Neural GPUs Learn Algorithms[[arxiv1511](https://arxiv.org/abs/1511.08228)]
+- Learning to learn by gradient descent by gradient descent[[arxiv1606](https://arxiv.org/abs/1606.04474)]
+- Latent Predictor Networks for Code Generation[[arxiv1603](https://arxiv.org/abs/1603.06744)]
+- Creat music from Google Brain: [[Magenta](https://github.com/tensorflow/magenta)]
+- Super Mario World [[Code](http://pastebin.com/ZZmSNaHX)][[Video](https://www.youtube.com/watch?v=qv6UVOQ0F44)]
+- Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning[[arxiv1605](https://arxiv.org/abs/1605.08104)]
+- [[Song ci](https://github.com/HevLfreis/songci-rnn)]
+- Open nsfw model[[Code](https://github.com/yahoo/open_nsfw)]
+
+####Deep Learning + Arts:
+- Perceptual Losses for Real-Time Style Transfer and Super-Resolution[[Arxiv1603](https://arxiv.org/abs/1603.08155)][[Chainer implementation](https://github.com/yusuketomoto/chainer-fast-neuralstyle)]
+- A Neural Algorithm of Artistic Style[[arxiv1508](https://arxiv.org/abs/1508.06576)][[Torch Implementation](https://github.com/jcjohnson/neural-style)][[Chainer Implementation](https://github.com/mattya/chainer-gogh)]
+- Toward Automated Discovery of Artistic Influence[[arxiv1408](https://arxiv.org/abs/1408.3218)]
+- The Rijksmuseum Challenge: Museum-Centered Visual Recognition[[ICMR '14](https://staff.fnwi.uva.nl/t.e.j.mensink/publications/mensink14icmr.pdf)]
+- Artistic style transfer for videos[[arxiv1604](https://arxiv.org/abs/1604.08610)]
+- [[Ostagram](https://ostagram.ru/static_pages/lenta?last_days=30&locale=en)]
+- [[Prisma](http://prisma-ai.com/)]
+
+####Image Reconstruction
+- Context Encoders: Feature Learning by Inpainting[[Code](https://github.com/pathak22/context-encoder)]
+- Pixel Recurrent Neural Networks[[arxiv1601](https://arxiv.org/abs/1601.06759)]
+- Mask-specific inpainting with deep neural networks[[pdf](http://webdav.tuebingen.mpg.de/pixel/neural_inpainting/Koehler_Mask_Specific_Inpainting_With_Deep_Neural_Networks_GCPR_2014.pdf)]
+- Image Denoising and Inpainting with Deep Neural Networks[[pdf](https://papers.nips.cc/paper/4686-image-denoising-and-inpainting-with-deep-neural-networks.pdf)]
 
 ####Distributed Deep Learning:
 - [An Introduction to Distributed Training of Neural Networks](http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)
