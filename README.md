@@ -1,11 +1,17 @@
 ###I record here my recent readings and links, I will keep updating.
 
-### latest update date: 20/11/2016
+### Latest update date: 22/11/2016
+
+### In this fold:
+- PGM.tex,PGM.bib,PGM.pdf: Reading Notes for Probabilistic graphical models: principles and techniques[[Link](http://pgm.stanford.edu/)[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)]
+
+- DL.tex,DL.bib,DL.pdf: Reading Notes for Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
 
 ####Usefull Books and links:
 - For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - For practice: [Deep Learning Tutorials in Theano](http://deeplearning.net/tutorial/)[[Code](https://github.com/lisa-lab/DeepLearningTutorials/tree/master/code)]
-- For in-depth learning: Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)]
+- For in-depth learning: Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
+- Probabilistic graphical models: principles and techniques[[Link](http://pgm.stanford.edu/)[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)]
 - 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
