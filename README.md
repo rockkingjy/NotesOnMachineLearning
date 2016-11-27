@@ -3,8 +3,6 @@
 ### Latest update date: 22/11/2016
 
 ### In this fold:
-- PGM.tex,PGM.bib,PGMpics,PGM.pdf: Reading Notes for Probabilistic graphical models: principles and techniques[[Koller](http://pgm.stanford.edu/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)]
-
 - DL.tex,DL.bib,DL.pdf: Reading Notes for Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
 
 ####Usefull Books and links:
