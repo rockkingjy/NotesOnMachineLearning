@@ -15,6 +15,12 @@
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)[[Code](https://github.com/cs231n/cs231n.github.io)]
 
+####Let machine Programme itself!
+- Unsupervised Program Induction with Hierarchical Generative Convolutional Neural Networks, Qucheng Gong and Yuandong Tian and C. Lawrence Zitnick
+
+####Lifelong Machine Learning:
+- Lifelong Machine Learning[[Zhiyuan Chen](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)]
+
 ####Reinforcement Learning:
 - Reinforcement Learning:An Introduction[[Sutton](https://webdocs.cs.ualberta.ca/~sutton/book/the-book.html)]
 - Reinforcement Learning Video[[David Silver](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)][[Easy21](https://github.com/kvfrans/Easy21-RL)]
