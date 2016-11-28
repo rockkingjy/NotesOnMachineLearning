@@ -1,6 +1,6 @@
 ###I record here my recent readings and links, I will keep updating.
 
-### Latest update date: 22/11/2016
+### Latest update date: 28/11/2016
 
 ### In this fold:
 - DL.tex,DL.bib,DL.pdf: Reading Notes for Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
@@ -17,6 +17,8 @@
 
 ####Let machine Programme itself!
 - Unsupervised Program Induction with Hierarchical Generative Convolutional Neural Networks, Qucheng Gong and Yuandong Tian and C. Lawrence Zitnick
+- Neural Programmer-Interpreters[[Arxiv](https://arxiv.org/abs/1511.06279)][[Web](http://www-personal.umich.edu/~reedscot/iclr_project.html)][[Code](https://github.com/mokemokechicken/keras_npi)]
+
 
 ####Lifelong Machine Learning:
 - Lifelong Machine Learning[[Zhiyuan Chen](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)]
