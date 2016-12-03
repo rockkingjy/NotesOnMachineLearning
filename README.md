@@ -1,6 +1,6 @@
 ###I record here my recent readings and links, I will keep updating.
 
-### Latest update date: 28/11/2016
+### Latest update date: 03/12/2016
 
 ### In this fold:
 - DL.tex,DL.bib,DL.pdf: Reading Notes for Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
@@ -13,12 +13,14 @@
 - 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
-- [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)[[Code](https://github.com/cs231n/cs231n.github.io)]
+- [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)[[Code](https://github.com/cs231n/cs231n.github.io)][[Video](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)]
 
 ####Let machine Programme itself!
 - Unsupervised Program Induction with Hierarchical Generative Convolutional Neural Networks, Qucheng Gong and Yuandong Tian and C. Lawrence Zitnick
 - Neural Programmer-Interpreters[[Arxiv](https://arxiv.org/abs/1511.06279)][[Web](http://www-personal.umich.edu/~reedscot/iclr_project.html)][[Code](https://github.com/mokemokechicken/keras_npi)]
 
+####NLP
+- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)[[Code](https://github.com/kvfrans/cs224-solutions)][[Video](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_)]
 
 ####Lifelong Machine Learning:
 - Lifelong Machine Learning[[Zhiyuan Chen](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)]
@@ -104,9 +106,6 @@
 - [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
 - [DeepSpark](http://deepspark.snu.ac.kr./) allows distributed execution of both Caffe and Google's TensorFlow deep learning jobs on Apache Spark™ cluster of machines.
 - [Distributed Deep Learning](http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks)
-
-####NLP
-- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)[[Code](https://github.com/kvfrans/cs224-solutions)]
 
 ####Others
 - [The Neural Network Zoo](http://www.asimovinstitute.org/neural-network-zoo/)
