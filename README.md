@@ -9,7 +9,8 @@
 - For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 - For practice: [Deep Learning Tutorials in Theano](http://deeplearning.net/tutorial/)[[Code](https://github.com/lisa-lab/DeepLearningTutorials/tree/master/code)]
 - For in-depth learning: Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
-- Probabilistic graphical models: principles and techniques[[Koller](http://pgm.stanford.edu/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)]
+- Probabilistic graphical models: principles and techniques[[Koller](http://pgm.stanford.edu/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraProbabilisticGraphicModels)]
+- Neural Networks for Machine Learning[[Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraNeuralNetworksForMachineLearningHinton)]
 - 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
