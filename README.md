@@ -3,7 +3,7 @@
 ### Latest update date: 03/12/2016
 
 ### In this fold:
-- DL.tex,DL.bib,DL.pdf: Reading Notes for Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
+- DL.pdf: Reading Notes for Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
 
 ####Usefull Books and links:
 - For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
