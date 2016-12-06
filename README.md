@@ -5,18 +5,23 @@
 ### In this fold:
 - DL.pdf: Reading Notes for Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
 
-####Usefull Books and links:
-- For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
-- For practice: [Deep Learning Tutorials in Theano](http://deeplearning.net/tutorial/)[[Code](https://github.com/lisa-lab/DeepLearningTutorials/tree/master/code)]
-- For in-depth learning: Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
-- Probabilistic graphical models: principles and techniques[[Koller](http://pgm.stanford.edu/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraProbabilisticGraphicModels)]
-- Neural Networks for Machine Learning[[Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraNeuralNetworksForMachineLearningHinton)]
+###Usefull Books and links:
+
+####Machine Learning:
+- Convex Optimization[[Standford](http://stanford.edu/class/ee364a/)][[Video](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)]
 - Machine Learning[[Andrew NG](http://cs229.stanford.edu/)][[Video](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)]
 - Machine Learning[[UBC2013](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)][[Video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all)]
 - Machine Learning(Deep Learning)[[Oxford2015](http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/)][[Video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)]
 - 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
+- Probabilistic graphical models: principles and techniques[[Koller](http://pgm.stanford.edu/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraProbabilisticGraphicModels)]
+
+####Deep Learning:
+- For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+- For practice: [Deep Learning Tutorials in Theano](http://deeplearning.net/tutorial/)[[Code](https://github.com/lisa-lab/DeepLearningTutorials/tree/master/code)]
+- For in-depth learning: Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
+- Neural Networks for Machine Learning[[Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraNeuralNetworksForMachineLearningHinton)]
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)[[Code](https://github.com/cs231n/cs231n.github.io)][[Video](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)]
 
 ####Let machine Programme itself!
