@@ -12,6 +12,8 @@
 - Probabilistic graphical models: principles and techniques[[Koller](http://pgm.stanford.edu/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraProbabilisticGraphicModels)]
 - Neural Networks for Machine Learning[[Geoffrey Hinton](https://www.coursera.org/learn/neural-networks)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraNeuralNetworksForMachineLearningHinton)]
 - Machine Learning[[Andrew NG](http://cs229.stanford.edu/)][[Video](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)]
+- Machine Learning[[UBC2013](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)][[Video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all)]
+- Machine Learning(Deep Learning)[[Oxford2015](http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/)][[Video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)]
 - 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
