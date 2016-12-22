@@ -16,6 +16,7 @@
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
 - Probabilistic graphical models: principles and techniques[[Koller](http://pgm.stanford.edu/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraProbabilisticGraphicModels)]
+- Understanding Machine Learning - Shai Ben-David[[Video](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)]
 
 ####Deep Learning:
 - For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
