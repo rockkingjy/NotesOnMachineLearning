@@ -1,6 +1,6 @@
 ###I record here my recent readings and links, I will keep updating.
 
-### Latest update date: 03/12/2016
+### Latest update date: 22/12/2016
 
 ### In this fold:
 - DL.pdf: Reading Notes for Deep Learning[[Goodfellow](http://www.deeplearningbook.org/)]
@@ -17,6 +17,8 @@
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
 - Probabilistic graphical models: principles and techniques[[Koller](http://pgm.stanford.edu/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraProbabilisticGraphicModels)]
 - Understanding Machine Learning - Shai Ben-David[[Video](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)]
+- Statistical Machine Learning - Larry Wasserman[[Site](http://www.stat.cmu.edu/~larry/=sml/)][[Video](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)] 
+- MIT Course 9.520 - Statistical Learning Theory and Applications, Fall 2015[[Site](http://www.mit.edu/~9.520/fall15/)][[Video](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)] 
 
 ####Deep Learning:
 - For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
