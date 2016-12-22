@@ -16,7 +16,7 @@
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
 - Probabilistic graphical models: principles and techniques[[Koller](http://pgm.stanford.edu/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraProbabilisticGraphicModels)]
-- Understanding Machine Learning - Shai Ben-David[[Video](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)]
+- Understanding Machine Learning - Shai Ben-David[[Site](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)][[Video](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)]
 - Statistical Machine Learning - Larry Wasserman[[Site](http://www.stat.cmu.edu/~larry/=sml/)][[Video](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)] 
 - MIT Course 9.520 - Statistical Learning Theory and Applications, Fall 2015[[Site](http://www.mit.edu/~9.520/fall15/)][[Video](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)] 
 
