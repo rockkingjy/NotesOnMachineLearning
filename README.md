@@ -21,8 +21,9 @@
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)[[Code](https://github.com/kvfrans/cs224-solutions)][[Video](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_)]
 - Machine Learning[[Andrew NG Standford cs229](http://cs229.stanford.edu/)][[Video](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)]: Introductory course on Machine Learning, so tasty for any one who start to learn ML;
 - Understanding Machine Learning, Spring 2015[[Shai Ben-David Waterloo](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)][[Video](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)]: Theoretical biased course, so I do not recommend for the practical biased learner, but for me(Yes, I like theory!), it opens a window for me, and the teacher is really cute!
-- Statistical Machine Learning, Spring 2016[[Larry Wasserman CMU](http://www.stat.cmu.edu/~larry/=sml/)][[Video](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)] 
-- Statistical Learning Theory and Applications, Fall 2015[[MIT 9.520](http://www.mit.edu/~9.520/fall15/)][[Video](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)] 
+- Statistical Machine Learning, Spring 2016[[Larry Wasserman CMU](http://www.stat.cmu.edu/~larry/=sml/)][[Video](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)]: Math biased course, harder than the Waterloo course.
+- Statistical Learning Theory and Applications, Fall 2015[[MIT 9.520](http://www.mit.edu/~9.520/fall15/)][[Video](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)]: Not finish this course, the video not well filmed.
+- CS229T/STATS231: Statistical Learning Theory[[2016](http://web.stanford.edu/class/cs229t/)]: No videos, but very good lecture notes, I like it.
 
 ####Deep Learning:
 - For starters: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
