@@ -11,18 +11,18 @@
 - Convex Optimization[[Standford](http://stanford.edu/class/ee364a/)][[Video](https://www.youtube.com/playlist?list=PL3940DD956CDF0622)]
 - Machine Learning[[UBC2013](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)][[Video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6&feature=view_all)]
 - Machine Learning(Deep Learning)[[Oxford2015](http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/)][[Video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)]
-- 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 - The Elements of Statistical Learning[[Hastie](http://statweb.stanford.edu/~tibs/ElemStatLearn/)]
 - Machine Learning: A Probabilistic Perspective[[Murphy](http://people.cs.ubc.ca/~murphyk/MLbook/)]
 - Probabilistic graphical models: principles and techniques[[Koller](http://pgm.stanford.edu/)][[Coursera](https://www.coursera.org/specializations/probabilistic-graphical-models)][[My Exercices Answers and Codes](https://github.com/rockkingjy/CourseraProbabilisticGraphicModels)]
+- 机器学习[[周志华](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)]
 
 ###Courses I like:
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)[[Code](https://github.com/cs231n/cs231n.github.io)][[Video](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)]
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)[[Code](https://github.com/kvfrans/cs224-solutions)][[Video](https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_)]
 - Machine Learning[[Andrew NG Standford cs229](http://cs229.stanford.edu/)][[Video](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)]: Introductory course on Machine Learning, so tasty for any one who start to learn ML;
 - Understanding Machine Learning, Spring 2015[[Shai Ben-David Waterloo](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)][[Video](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q)]: Theoretical biased course, so I do not recommend for the practical biased learner, but for me(Yes, I like theory!), it opens a window for me, and the teacher is really cute!
-- Statistical Machine Learning, Spring 2016[[Larry Wasserman CMU](http://www.stat.cmu.edu/~larry/=sml/)][[Video](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)]: Math biased course, harder than the Waterloo course.
-- Statistical Learning Theory and Applications, Fall 2015[[MIT 9.520](http://www.mit.edu/~9.520/fall15/)][[Video](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)]: Not finish this course, the video not well filmed.
+- Statistical Machine Learning, Spring 2016[[Larry Wasserman CMU](http://www.stat.cmu.edu/~larry/=sml/)][[Video](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)]: Math biased course, good notes, harder than the Waterloo course before.
+- Statistical Learning Theory and Applications, Fall 2015[[MIT 9.520](http://www.mit.edu/~9.520/fall15/)][[Video](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)]: Not finish this course yet, the video not well filmed, but interesting.
 - CS229T/STATS231: Statistical Learning Theory[[2016](http://web.stanford.edu/class/cs229t/)]: No videos, but very good lecture notes, I like it.
 
 ####Deep Learning:
@@ -34,8 +34,6 @@
 ####Let machine Programme itself!
 - Unsupervised Program Induction with Hierarchical Generative Convolutional Neural Networks, Qucheng Gong and Yuandong Tian and C. Lawrence Zitnick
 - Neural Programmer-Interpreters[[Arxiv](https://arxiv.org/abs/1511.06279)][[Web](http://www-personal.umich.edu/~reedscot/iclr_project.html)][[Code](https://github.com/mokemokechicken/keras_npi)]
-
-####NLP
 
 ####Lifelong Machine Learning:
 - Lifelong Machine Learning[[Zhiyuan Chen](https://www.cs.uic.edu/~liub/lifelong-machine-learning.html)]
